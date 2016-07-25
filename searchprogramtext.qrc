@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>searchThisParagraph.txt</file>
+    </qresource>
+</RCC>
